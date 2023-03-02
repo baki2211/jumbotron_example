@@ -1,3 +1,3 @@
 # jumbotron_example
-HTML CSS only
-Simple responsive single page for jumbotron example
+HTML CSS Js
+Simple responsive single page for jumbotron example with dropdown menu

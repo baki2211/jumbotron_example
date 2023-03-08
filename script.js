@@ -13,3 +13,9 @@ function dropDown() {
       }
     }
   }
+
+  //Close modal 
+  const closeModal = ()=> {
+    let modal = document.querySelector('.modal');
+    modal.classList.remove('open');
+}
